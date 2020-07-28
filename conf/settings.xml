@@ -139,6 +139,12 @@ under the License.
 		<username>xhs</username>
 		<password>{ybhHCUAegqsH4EQp2GVT6Zh4w1O3s4ZLZphTwbSe7Wo=}</password>
     </server>
+
+    <server>
+      <id>github</id>
+      <username>xhs-12302</username>
+      <password>{6JnHDzZJqBAHiSA42DPOtf5ZwpOCeM7vUUS+1dKKwyBvkX0Cx2m3qAuNxP05RHhYrA61UKIWvRz+BtdAQZPdig==}</password>
+    </server>
     <!-- Another sample, using keys to authenticate.
     <server>
       <id>siteServer</id>
